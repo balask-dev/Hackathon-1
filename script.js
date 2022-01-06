@@ -66,7 +66,3 @@ async function gitData() {
 }
 gitData();
 
-//  console.log("Repos names:" + res[i].name);
-//  console.log("forks count :" + res[i].forks_count,"stargazers Count:"+ res[i].stargazers_count);
-//  console.log("Owner image :" + res[i].owner.avatar_url);
-//  console.log("Repos url :" + res[i].url);
